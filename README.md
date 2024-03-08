@@ -1,7 +1,9 @@
 # 4G Anomaly Detection Classifier
+
+### Introduction:
 The purpose of this homework is to solve a classification problem proposed as a competition in the Kaggle InClass platform. You can apply any of the concepts and techniques studied in class for exploratory data analysis, feature selection and classification.
 
-## Problem Description:
+### Problem Description:
 1. Context: Traditionally, the design of a cellular network focuses on the optimization of energy and resources that guarantees a smooth operation even during peak hours (i.e. periods with higher traffic load).
 1. However, this implies that cells are most of the time overprovisioned of radio resources.
 1. Next generation cellular networks ask for a dynamic management and configuration in order to adapt to the varying user demands in the most efficient way with regards to energy savings and utilization of frequency resources.
