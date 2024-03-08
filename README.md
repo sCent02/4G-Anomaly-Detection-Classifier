@@ -12,3 +12,15 @@ The purpose of this homework is to solve a classification problem proposed as a 
 
 ### Dataset:
 > The dataset is obtained in this [Kaggle Dataset](https://www.kaggle.com/competitions/anomaly-detection-in-4g-cellular-networks) or you can refer to this [link]() if you want to download the csv file directly.
+
+### The Problem:
+These following are the reasons why I choose this project:
+1. There is a need to incorporate machine learning in classfying the cellular network unusual behavior.
+2. There is an existing gap in determining the unusual network behaviour of an existing network based from factors such as level of resource utilization in each cell, average carried traffic, maximum carried traffic, average number of user equipment and maximum number of user equipment.
+
+### Objectives:
+The following are the expected outcome of the project:
+1. Determine
+2. Build a supervised machine learning classifier model to predict the unusual network behaviour.
+
+### Results:
