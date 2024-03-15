@@ -11,7 +11,7 @@ The purpose of this homework is to solve a classification problem proposed as a 
 1. Current research in mobile networks looks upon Machine Learning (ML) techniques to help manage those resources. In this case, you will explore the possibilities of ML to detect abnormal behaviors in the utilization of the network that would motivate a change in the configuration of the base station.
 
 ### Dataset:
-> The dataset is obtained in this [Kaggle Dataset](https://www.kaggle.com/competitions/anomaly-detection-in-4g-cellular-networks) or you can refer to this [link]() if you want to download the csv file directly.
+> The dataset is obtained in this [Kaggle Dataset](https://www.kaggle.com/competitions/anomaly-detection-in-4g-cellular-networks) or you can refer to this [link](sCent02/4G-Anomaly-Detection-Classifier/blob/main/ML-MATT-CompetitionQT2021_train.csv) if you want to download the csv file directly.
 
 ### The Problem:
 These following are the reasons why I choose this project:
