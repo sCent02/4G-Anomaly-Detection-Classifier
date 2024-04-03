@@ -20,7 +20,12 @@ These following are the reasons why I choose this project:
 
 ### Objectives:
 The following are the expected outcome of the project:
-1. Determine
+1. Determine the causation of unusual network behaviour with a given factors.
 2. Build a supervised machine learning classifier model to predict the unusual network behaviour.
 
 ### Results:
+<div class="image-container">
+  <p align="center">
+    <img src="asset/img/course-1212-bs.jpg" width="150" height="100" />
+  </p> 
+</div>
