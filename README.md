@@ -30,8 +30,13 @@ The following are the expected outcome of the project:
   </p> 
 </div>
 
+1. In confusion Matrix, it clearly demonstrates that the network behaviour can be generalize with 95% accuracy on the validation data. Therefore, the Random Forest Classifier is sufficient for indentifying new sets of network data that may exhibit anomalous network behaviour.
+2. This machine learning model can aid the Network Planner for the informed decision of what parameters that needed to maintain to optimize the network usage.
+
 <div class="image-container">
   <p align="center">
     <img src="asset/ROC-AUC.JPG" width=700 />
   </p> 
 </div>
+
+1. This ROC-AUC clearly indicates that the model can accurately classifies the actual data and generalize the target results.
