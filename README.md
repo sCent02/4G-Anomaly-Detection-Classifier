@@ -26,6 +26,6 @@ The following are the expected outcome of the project:
 ### Results:
 <div class="image-container">
   <p align="center">
-    <img src="asset/img/course-1212-bs.jpg" width="150" height="100" />
+    <img src="asset/Confusion Matrix.JPG" width="150" height="100" />
   </p> 
 </div>
